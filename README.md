@@ -1,2 +1,3 @@
-# ANALYTICS-PROJECTS
-The repository contains the list of all the analytics projects that were implemented as part of independent research
+# MIMING ONLINE REVIEWS
+Built a model  to identify the key topics from the online reviews of Amazon Automotive Review data
+
